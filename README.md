@@ -1,4 +1,4 @@
-# 🦇 Welcome to My Batcave  
+# 🦇 Welcome to My Batcave
 
 <table>
   <tr>
@@ -18,16 +18,16 @@
 
 ---
 
-## 🦇 I Am Vengeance. I Am the Night.  
+## 🦇 I Am Vengeance. I Am the Night.
 
-- 🌙 Dark Knight Developer  
-- 🛡️ Code by Day, Protect by Night  
-- 🛠 Tech Stack: Java | Python | C++ | JavaScript  
-- 🕶 Gotham-based problem solver  
+- 🌙 Dark Knight Developer
+- 🛡️ Code by Day, Protect by Night
+- 🛠 Tech Stack: Java | Python | C++ | JavaScript
+- 🕶 Gotham-based problem solver
 
 ---
 
-## ⚡ My GitHub Stats  
+## ⚡ My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AakashLeo&show_icons=true&theme=dark&bg_color=0D1117&title_color=ff0000&icon_color=ff0000" height="180"/>
@@ -36,21 +36,28 @@
 
 ---
 
-## 🛠 Utility Belt (Skills)  
+## 🛠 Utility Belt (Skills)
 
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)  
 ![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python)  
 ![C++](https://img.shields.io/badge/C++-darkred?style=for-the-badge&logo=cplusplus)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)  
-![GitHub](https://img.shields.io/badge/GitHub-darkgray?style=for-the-badge&logo=github)  
+![GitHub](https://img.shields.io/badge/GitHub-darkgray?style=for-the-badge&logo=github)
 
 ---
 
-## 🕶 Gotham Projects  
+## 🏆 Coding Platforms
 
-- 🔗 [Bat-Signal API](#)  
-- 🔗 [WayneTech AI](#)  
-- 🔗 [Arkham Data Vault](#)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aakash_420/)
+[![Codolio](https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/Aakash_M)
+
+---
+
+## 🕶 Gotham Projects
+
+- 🔗 [Bat-Signal API](#)
+- 🔗 [WayneTech AI](#)
+- 🔗 [Arkham Data Vault](#)
 
 ---
 
