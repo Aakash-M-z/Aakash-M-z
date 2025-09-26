@@ -23,7 +23,6 @@
 -  Dark Knight Developer
 -  Code by Day, Protect by Night
 -  Tech Stack: Java | Python | C++ | JavaScript
--  Gotham-based problem solver
 
 ---
 
