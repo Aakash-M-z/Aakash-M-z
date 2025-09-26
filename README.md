@@ -60,6 +60,10 @@
 ![Problems Solved](https://img.shields.io/badge/Problems_Solved-643-4CAF50?style=for-the-badge&logo=codechef&logoColor=white)
 ![Contests Participated](https://img.shields.io/badge/Contests-80-2196F3?style=for-the-badge&logo=codechef&logoColor=white)
 
+### LeetCode Stats
+
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Aakash_420&theme=dark)](https://leetcode.com/u/Aakash_420/)
+
 ---
 
 ## 🏆 Coding Platforms
