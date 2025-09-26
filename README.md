@@ -48,21 +48,11 @@
 
 ## 🏅 Achievements & Badges
 
-### CodeChef Badges
+### Codolio Progress
 
-![Daily Streak - Diamond](https://img.shields.io/badge/Daily_Streak-Diamond-00bcd4?style=for-the-badge&logo=codechef&logoColor=white)
-![Contest Contender - Gold](https://img.shields.io/badge/Contest_Contender-Gold-ffd700?style=for-the-badge&logo=codechef&logoColor=black)
-![Problem Solver - Gold](https://img.shields.io/badge/Problem_Solver-Gold-ffd700?style=for-the-badge&logo=codechef&logoColor=black)
-
-### Platform Ratings
-
-![CodeChef Rating](https://img.shields.io/badge/CodeChef-2★_1493-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-643-4CAF50?style=for-the-badge&logo=codechef&logoColor=white)
-![Contests Participated](https://img.shields.io/badge/Contests-80-2196F3?style=for-the-badge&logo=codechef&logoColor=white)
-
-### LeetCode Stats
-
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Aakash_420&theme=dark)](https://leetcode.com/u/Aakash_420/)
+[![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-007ACC?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/Aakash_M)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems_Solved-700+-4CAF50?style=for-the-badge&logo=codolio&logoColor=white)
+![Platforms Active](https://img.shields.io/badge/Platforms_Active-3-2196F3?style=for-the-badge&logo=codolio&logoColor=white)
 
 ---
 
@@ -70,7 +60,6 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aakash_420/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aakashleo)
-[![Codolio](https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/Aakash_M)
 
 ---
 
