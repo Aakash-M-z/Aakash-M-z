@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td>
-      <h3>👋 Hi, I’m <b>Aakash</b></h3>
+      <h3> Hi, I’m <b>Aakash</b></h3>
       <p>
-        🎓 3rd year <b>CSE student</b> with exciting skills in <b>development</b>.<br>
-        💻 Passionate about coding, problem-solving, and building creative projects.<br>
-        🚀 Always exploring new technologies and pushing limits.
+         3rd year <b>CSE student</b> with exciting skills in <b>development</b>.<br>
+         Passionate about coding, problem-solving, and building creative projects.<br>
+         Always exploring new technologies and pushing limits.
       </p>
     </td>
     <td>
@@ -20,14 +20,14 @@
 
 ## 🦇 I Am Vengeance. I Am the Night.
 
-- 🌙 Dark Knight Developer
-- 🛡️ Code by Day, Protect by Night
-- 🛠 Tech Stack: Java | Python | C++ | JavaScript
-- 🕶 Gotham-based problem solver
+-  Dark Knight Developer
+-  Code by Day, Protect by Night
+-  Tech Stack: Java | Python | C++ | JavaScript
+-  Gotham-based problem solver
 
 ---
 
-## ⚡ My GitHub Stats
+## 🦇 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakash-M-z&show_icons=true&theme=dark&bg_color=0D1117&title_color=ff0000&icon_color=ff0000" height="180"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠 Utility Belt (Skills)
+## 🦇 Utility Belt (Skills)
 
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)  
 ![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python)  
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏅 Achievements & Badges
+## 🦇 Achievements & Badges
 
 ### Codolio Progress
 
@@ -56,14 +56,14 @@
 
 ---
 
-## 🏆 Coding Platforms
+## 🦇 Coding Platforms
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aakash_420/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aakashleo)
 
 ---
 
-## 🕶 Gotham Projects
+## 🦇 Gotham Projects
 
 - 🔗 [Progress Tracker](https://progress-tracker-ucdg.onrender.com/)
 
@@ -71,4 +71,5 @@
 
 <p align="center">
   <i>“Fear is a tool. When that light hits the sky, it’s not just a call… it’s a warning.”</i>  
+  <i>"Brave!"</i>
 </p>
