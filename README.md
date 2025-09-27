@@ -1,4 +1,4 @@
-# 🦇 Welcome to My Batcave  
+# 🦇 Welcome to My Batcave
 
 <table>
   <tr>
@@ -15,32 +15,32 @@
 
 ---
 
-## 🦸 About Me  
+## 🦸 About Me
 
-- 🖥️ Love working on **Java, Python, and AI projects**  
-- 📚 Always learning and building exciting things  
-- 💡 Enjoy solving **real-world problems with code**  
+- 🖥️ Love working on **Java, Python, and AI projects**
+- 📚 Always learning and building exciting things
+- 💡 Enjoy solving **real-world problems with code**
 
 ---
 
-## 🦇 Contribution Heatmap  
+## 🦇 Contribution Heatmap
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/output/github-contribution-grid-snake-gotham.svg" width="95%">
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/dist/github-contribution-grid-snake-gotham.svg" width="95%">
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-- **Languages:** Java, Python, JavaScript  
-- **Frameworks:** Spring Boot, Node.js, Flask  
-- **Tools:** GitHub, VS Code, IntelliJ, MySQL  
+- **Languages:** Java, Python, JavaScript
+- **Frameworks:** Spring Boot, Node.js, Flask
+- **Tools:** GitHub, VS Code, IntelliJ, MySQL
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com)  
-- 🐦 [Twitter](https://twitter.com)  
-- 📧 Email: youremail@example.com  
+- 💼 [LinkedIn](https://linkedin.com)
+- 🐦 [Twitter](https://twitter.com)
+- 📧 Email: youremail@example.com
