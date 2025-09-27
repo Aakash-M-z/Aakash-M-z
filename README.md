@@ -20,9 +20,9 @@
 
 ## 🦇 I Am Vengeance. I Am the Night.
 
--  Dark Knight Developer
--  Code by Day, Protect by Night
--  Tech Stack: Java | Python | C++ | JavaScript
+-  Dark Knight Developer  
+-  Code by Day, Protect by Night  
+-  Tech Stack: Java | Python | C++ | JavaScript  
 
 ---
 
@@ -31,6 +31,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakash-M-z&show_icons=true&theme=dark&bg_color=0D1117&title_color=ff0000&icon_color=ff0000" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-M-z&theme=dark&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" height="180"/>
+</p>
+
+---
+
+## 🦇 Contribution Heatmap
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash-M-z&theme=react-dark&bg_color=0D1117&color=ff0000&line=ff0000&point=ffffff&hide_border=true" width="95%"/>
+
+  <!-- Animated Heatmap GIF -->
+  <br><br>
+  <img src="https://i.ibb.co/7NsDy2V/github-heatmap.gif" width="700" alt="animated heatmap"/>
 </p>
 
 ---
