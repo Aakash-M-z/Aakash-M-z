@@ -79,8 +79,9 @@
 ## 🦇 Animated Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/output/dist/github-contribution-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/github-contribution-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
