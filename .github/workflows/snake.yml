@@ -2,26 +2,27 @@ name: Generate Snake Heatmap
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every midnight UTC
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+    - name: Checkout repo
+      uses: actions/checkout@v3
 
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Aakash-M-z
-          outputs: dist/github-contribution-snake.svg
+    - name: Generate Snake SVG
+      uses: Platane/snk@v3
+      with:
+        github_user_name: Aakash-M-z
+        outputs: github-contribution-snake.svg  # saves in root folder
 
-      - name: Push snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Generated snake animation"
-          add: "dist/*.svg"
+    - name: Commit and Push Snake
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: github-actions
+        author_email: github-actions@github.com
+        message: "Update Snake Heatmap"
+        add: "github-contribution-snake.svg"
