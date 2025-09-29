@@ -12,6 +12,9 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3
+      with:
+        # Use your custom token
+        token: ${{ secrets.METRIC_TOKEN }}
 
     - name: Generate Snake SVG
       uses: Platane/snk@v3
@@ -26,3 +29,6 @@ jobs:
         author_email: github-actions@github.com
         message: "Update Snake Heatmap"
         add: "github-contribution-snake.svg"
+        push: true
+        # Use your custom token
+        token: ${{ secrets.METRIC_TOKEN }}
