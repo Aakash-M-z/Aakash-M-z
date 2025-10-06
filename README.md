@@ -1,4 +1,13 @@
 # 🦇 Welcome to My Batcave
+---
+<p align="center">
+  <a href="https://github.com/aakash">
+    <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=github&logoColor=00ff00&labelColor=000000&color=00ff00" alt="Status: Online Badge"/>
+  </a>
+</p>
+
+---
+
 
 <table>
   <tr>
