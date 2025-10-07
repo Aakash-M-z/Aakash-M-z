@@ -1,3 +1,8 @@
+<!-- Top Animated Banner -->
+<p align="center">
+  <img src="https://github.com/Aakash-M-z/Aakash-M-z/raw/main/glow2.gif" alt="Banner Animation" width="100%"/>
+</p>
+
 # 🦇 Welcome to My Batcave
 ---
 <p align="center">
@@ -7,7 +12,6 @@
 </p>
 
 ---
-
 
 <table>
   <tr>
@@ -29,9 +33,9 @@
 
 ## 🦇 I Am Vengeance. I Am the Night.
 
--  Dark Knight Developer  
--  Code by Day, Protect by Night  
--  Tech Stack: Java | Python | C++ | JavaScript  
+- Dark Knight Developer  
+- Code by Day, Protect by Night  
+- Tech Stack: Java | Python | C++ | JavaScript  
 
 ---
 
@@ -39,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakash-M-z&show_icons=true&theme=dark&bg_color=0D1117&title_color=ff0000&icon_color=ff0000&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aakash-M-z&theme=dark&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&date_format=j%20M%5B%20Y%5D&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-M-z&theme=dark&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&date_format=j%20M%5B%20Y%5D&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&cache_seconds=1800" height="180"/>
 </p>
 
 ---
@@ -91,10 +95,9 @@
   <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-
-
 ---
 
 <p align="center">
   <i>“Fear is a tool. When that light hits the sky, it’s not just a call… it’s a warning.”</i>  
   <i>"Brave!"</i>
+</p>
