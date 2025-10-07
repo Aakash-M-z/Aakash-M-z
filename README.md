@@ -10,11 +10,12 @@
 <!-- Banner with dark/light support -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aakash-M-z/Aakash-M-z/blob/main/tenor.gif?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aakash-M-z/Aakash-M-z/blob/main/tenor.gif?raw=true">
+    <img src="https://github.com/Aakash-M-z/Aakash-M-z/blob/main/tenor.gif?raw=true" alt="Aakash | Android Developer Banner" width="100%">
   </picture>
 </p>
+
 
 ## About Me
 3rd-year <b>CSE student</b> specializing in <b>Full Stack Development</b>. Passionate about <b>coding</b>, <b>problem-solving</b>, and building <b>creative projects</b>. Always exploring <b>new technologies</b> and pushing limits.
