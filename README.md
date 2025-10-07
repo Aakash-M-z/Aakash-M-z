@@ -1,16 +1,4 @@
-<picture>
-  <img align="center" alt="Glow Banner" src="https://github.com/Aakash-M-z/Aakash-M-z/raw/main/glow2 (1).gif" width"700">
-</picture>
-<br />
 
-
-# 🦇 Welcome to My Batcave
----
-<p align="center">
-  <a href="https://github.com/aakash">
-    <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=github&logoColor=00ff00&labelColor=000000&color=00ff00" alt="Status: Online Badge"/>
-  </a>
-</p>
 
 
 <table>
@@ -22,9 +10,6 @@
          Passionate about coding, problem-solving, and building creative projects.<br>
          Always exploring new technologies and pushing limits.
       </p>
-    </td>
-    <td>
-      <img src="./Robert Pattinson Batman GIF by Grillax®.gif" width="250" />
     </td>
   </tr>
 </table>
