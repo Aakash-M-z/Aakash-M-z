@@ -1,5 +1,5 @@
 <picture>
-  <img align="center" alt="Glow Banner" src="https://github.com/Aakash-M-z/Aakash-M-z/raw/main/glow2.gif" width"700">
+  <img align="center" alt="Glow Banner" src="https://github.com/Aakash-M-z/Aakash-M-z/raw/main/glow2 (1).gif" width"700">
 </picture>
 <br />
 
