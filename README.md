@@ -1,7 +1,8 @@
-<!-- Top Animated Banner -->
-<p align="center">
-  <img src="https://github.com/Aakash-M-z/Aakash-M-z/raw/main/glow2.gif" alt="Banner Animation" width="100%"/>
-</p>
+<picture>
+  <img align="center" alt="Glow Banner" src="https://github.com/Aakash-M-z/Aakash-M-z/raw/main/glow2.gif" width"700">
+</picture>
+<br />
+
 
 # 🦇 Welcome to My Batcave
 ---
@@ -11,7 +12,6 @@
   </a>
 </p>
 
----
 
 <table>
   <tr>
