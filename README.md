@@ -10,6 +10,19 @@ Curious by nature and driven by creativity, I enjoy building software that solve
 > forever curious.
 
 ---
+## Current Focus
+
+• ![Cybersecurity](https://img.shields.io/badge/CYBER-SECURITY-3A3A3A?style=for-the-badge)
+
+  Studying threat intelligence, vulnerability assessment, and secure systems.
+
+• ![AI Systems](https://img.shields.io/badge/AI-SYSTEMS-3A3A3A?style=for-the-badge)
+
+  Developing intelligent agents, automation pipelines, and practical AI solutions.
+
+• ![Full Stack](https://img.shields.io/badge/FULL--STACK-ENGINEERING-3A3A3A?style=for-the-badge)
+
+  Building scalable applications with modern development practices.
 ## The Build Log
 
 ### 1. AgentCraft — Intelligent Workflow Automation Platform
