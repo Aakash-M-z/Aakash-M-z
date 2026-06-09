@@ -10,6 +10,7 @@ Curious by nature and driven by creativity, I enjoy building software that solve
 > forever curious.
 
 ---
+## The Build Log
 
 ### 1. AgentCraft — Intelligent Workflow Automation Platform
 
