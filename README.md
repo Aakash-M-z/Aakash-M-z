@@ -3,7 +3,6 @@
 </p>
 
 
----
 <img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/Skills_Animation_Dark.gif">
 
 ### About
@@ -16,7 +15,30 @@ I am currently focused on exploring secure systems, intelligent automation, and 
 
 <br clear="right"/>
 
----
+## Current Focus
+
+Focused on building expertise in **Cybersecurity**, **AI Automation**, and **Backend Engineering** through practical projects, continuous learning, and real-world problem solving.
+
+![CYBERSECURITY](https://img.shields.io/badge/CYBERSECURITY-5C4033?style=for-the-badge)
+![THREAT_DETECTION](https://img.shields.io/badge/THREAT_DETECTION-2D2D2D?style=for-the-badge)
+![SECURITY_MONITORING](https://img.shields.io/badge/SECURITY_MONITORING-2D2D2D?style=for-the-badge)
+
+Protecting systems through secure development, threat analysis, and defensive security practices.
+
+![AI_AUTOMATION](https://img.shields.io/badge/AI_AUTOMATION-5C4033?style=for-the-badge)
+![AI_AGENTS](https://img.shields.io/badge/AI_AGENTS-2D2D2D?style=for-the-badge)
+![WORKFLOWS](https://img.shields.io/badge/WORKFLOWS-2D2D2D?style=for-the-badge)
+
+Building intelligent workflows, autonomous agents, and productivity-focused automation systems.
+
+![SYSTEM_DESIGN](https://img.shields.io/badge/SYSTEM_DESIGN-5C4033?style=for-the-badge)
+![SCALABLE_APIS](https://img.shields.io/badge/SCALABLE_APIS-2D2D2D?style=for-the-badge)
+![BACKEND_ENGINEERING](https://img.shields.io/badge/BACKEND_ENGINEERING-2D2D2D?style=for-the-badge)
+
+Designing scalable architectures, modern APIs, and reliable backend solutions.
+
+> securing systems • building solutions • staying curious
+
 
 
 
