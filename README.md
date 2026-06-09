@@ -3,26 +3,23 @@
 </p>
 
 
-## About
+---
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/Skills_Animation_Dark.gif">
+
+### About
 
 Curious by nature and driven by creativity, I enjoy building software that solves real-world problems. My interests span backend engineering, cybersecurity, intelligent systems, automation, and scalable application design.
 
+I am currently focused on exploring secure systems, intelligent automation, and modern software architecture while continuously improving my problem-solving skills.
+
 > forever curious.
 
+<br clear="right"/>
+
 ---
-## Current Focus
 
-• ![Cybersecurity](https://img.shields.io/badge/CYBER-SECURITY-3A3A3A?style=for-the-badge)
 
-  Studying threat intelligence, vulnerability assessment, and secure systems.
 
-• ![AI Systems](https://img.shields.io/badge/AI-SYSTEMS-3A3A3A?style=for-the-badge)
-
-  Developing intelligent agents, automation pipelines, and practical AI solutions.
-
-• ![Full Stack](https://img.shields.io/badge/FULL--STACK-ENGINEERING-3A3A3A?style=for-the-badge)
-
-  Building scalable applications with modern development practices.
 ## The Build Log
 
 ### 1. AgentCraft — Intelligent Workflow Automation Platform
