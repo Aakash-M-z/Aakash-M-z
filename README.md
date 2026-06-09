@@ -3,14 +3,14 @@
 </p>
 
 
-
 ### About
 
-Focused on **Cybersecurity**, **AI Automation**, and **Backend Engineering**, I enjoy building secure systems, intelligent workflows, and scalable applications that solve real-world problems.
+Hi, I'm Aakash — a developer, builder, and lifelong learner with a strong interest in **Cybersecurity**, **AI Systems**, and **Scalable Software Engineering**.
 
-I am constantly exploring new technologies, strengthening my problem-solving skills, and turning ideas into practical solutions through continuous learning and hands-on development.
+I enjoy creating projects that solve real problems, exploring emerging technologies, and pushing myself beyond my comfort zone. Whether it's developing intelligent automation platforms, designing secure applications, or learning new technologies, I am always looking for the next challenge to tackle.
 
 **forever curious.**
+
 
 
 
