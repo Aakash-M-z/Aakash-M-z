@@ -1,19 +1,5 @@
-<h1 align="center">
-  Hello <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm <span style="color:#00FFFF;">Aakash</span>
-</h1>
-
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Aakash-M-z">
-    <img src="https://komarev.com/ghpvc/?username=Aakash-M-z&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
-  </a>
-</p>
-<!-- Banner with dark/light support -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aakash-M-z/Aakash-M-z/blob/main/tenor.gif?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aakash-M-z/Aakash-M-z/blob/main/tenor.gif?raw=true">
-    <img src="https://github.com/Aakash-M-z/Aakash-M-z/blob/main/tenor.gif?raw=true" alt="Aakash | Android Developer Banner" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/download%20(1).gif" alt="Aakash Banner" width="100%">
 </p>
 
 
