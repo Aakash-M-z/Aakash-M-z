@@ -3,17 +3,16 @@
 </p>
 
 
-<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/Skills_Animation_Dark.gif">
 
 ### About
 
-Curious by nature and driven by creativity, I enjoy building software that solves real-world problems. My interests span backend engineering, cybersecurity, intelligent systems, automation, and scalable application design.
+Focused on **Cybersecurity**, **AI Automation**, and **Backend Engineering**, I enjoy building secure systems, intelligent workflows, and scalable applications that solve real-world problems.
 
-I am currently focused on exploring secure systems, intelligent automation, and modern software architecture while continuously improving my problem-solving skills.
+I am constantly exploring new technologies, strengthening my problem-solving skills, and turning ideas into practical solutions through continuous learning and hands-on development.
 
-> forever curious.
+**forever curious.**
 
-<br clear="right"/>
+
 
 ## Current Focus
 
