@@ -89,29 +89,34 @@ AI-powered communication system that interprets sign language and converts gestu
 
 A modern fashion and lifestyle platform focused on elegant user experiences, responsive design, and seamless digital engagement.
 
----
+## AWS Learning Journey
 
-## Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,mongodb,python,git,github,aws,vscode&theme=dark" />
-</p>
-
----
-
-## GitHub Analytics
+Demonstrating hands-on cloud expertise through AWS Academy and AWS Cloud Quest programs, covering cloud foundations, networking, serverless architectures, data analytics, solutions architecture, and generative AI.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aakash-M-z&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D0D0D" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-M-z&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0D" />
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/awsc.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/awsd.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/awsg.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/awsgi.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/awsn.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/awss.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/awsso.png" width="110"/>
 </p>
+
+## Competitive Programming & Coding Profiles
+
+[![CodeChef](https://img.shields.io/badge/CODECHEF-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aakashleo)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-2124-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aakash_420/)
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-2235-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aakash_ext/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-m-7136342a5/)
+[![Codolio](https://img.shields.io/badge/CODOLIO-PROFILE-FF6B00?style=for-the-badge)](https://codolio.com/profile/Aakash_M)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashext@gmail.com)
+
+## Contribution Calendar
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aakash-M-z&theme=dark&hide_border=true&background=0D0D0D" />
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/metrics.plugin.isocalendar.svg" />
 </p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
