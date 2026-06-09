@@ -11,9 +11,6 @@ I enjoy creating projects that solve real problems, exploring emerging technolog
 
 ### **forever curious.**
 
-
-
-
 ## Current Focus
 
 Focused on building expertise in **Cybersecurity**, **AI Automation**, and **Backend Engineering** through practical projects, continuous learning, and real-world problem solving.
@@ -22,22 +19,25 @@ Focused on building expertise in **Cybersecurity**, **AI Automation**, and **Bac
 ![THREAT_DETECTION](https://img.shields.io/badge/THREAT_DETECTION-2D2D2D?style=for-the-badge)
 ![SECURITY_MONITORING](https://img.shields.io/badge/SECURITY_MONITORING-2D2D2D?style=for-the-badge)
 
-Protecting systems through secure development, threat analysis, and defensive security practices.
+Protecting systems through secure development, threat analysis, vulnerability assessment, and defensive security practices. Continuously exploring modern security tools, attack detection techniques, and secure software engineering principles.
+
+<img align="right" width="390" src="https://github.com/Aakash-M-z/Aakash-M-z/blob/main/Skills_Animation_Dark.gif?raw=true"/>
 
 ![AI_AUTOMATION](https://img.shields.io/badge/AI_AUTOMATION-5C4033?style=for-the-badge)
 ![AI_AGENTS](https://img.shields.io/badge/AI_AGENTS-2D2D2D?style=for-the-badge)
 ![WORKFLOWS](https://img.shields.io/badge/WORKFLOWS-2D2D2D?style=for-the-badge)
 
-Building intelligent workflows, autonomous agents, and productivity-focused automation systems.
+Building intelligent workflows, autonomous agents, and productivity-focused automation systems. Experimenting with AI-powered solutions that streamline processes and improve operational efficiency.
 
 ![SYSTEM_DESIGN](https://img.shields.io/badge/SYSTEM_DESIGN-5C4033?style=for-the-badge)
 ![SCALABLE_APIS](https://img.shields.io/badge/SCALABLE_APIS-2D2D2D?style=for-the-badge)
 ![BACKEND_ENGINEERING](https://img.shields.io/badge/BACKEND_ENGINEERING-2D2D2D?style=for-the-badge)
 
-Designing scalable architectures, modern APIs, and reliable backend solutions.
+Designing scalable architectures, modern APIs, and reliable backend solutions. Focused on performance, maintainability, cloud integration, and real-world application development.
 
 > securing systems • building solutions • staying curious
 
+<br clear="right"/>
 
 
 
