@@ -112,11 +112,11 @@ Demonstrating hands-on cloud expertise through AWS Academy and AWS Cloud Quest p
 [![Codolio](https://img.shields.io/badge/CODOLIO-PROFILE-FF6B00?style=for-the-badge)](https://codolio.com/profile/Aakash_M)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashext@gmail.com)
 
-## Contribution Calendar
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/metrics.plugin.isocalendar.svg" />
 </p>
+
 ## Contribution Snake
 
 <p align="center">
