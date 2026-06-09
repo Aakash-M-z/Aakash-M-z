@@ -21,7 +21,7 @@ Focused on building expertise in **Cybersecurity**, **AI Automation**, and **Bac
 
 Protecting systems through secure development, threat analysis, vulnerability assessment, and defensive security practices. Continuously exploring modern security tools, attack detection techniques, and secure software engineering principles.
 
-<img align="right" width="390" src="https://github.com/Aakash-M-z/Aakash-M-z/blob/main/Skills_Animation_Dark.gif?raw=true"/>
+<img align="right" width="350" src="https://github.com/Aakash-M-z/Aakash-M-z/blob/main/Skills_Animation_Dark.gif?raw=true"/>
 
 ![AI_AUTOMATION](https://img.shields.io/badge/AI_AUTOMATION-5C4033?style=for-the-badge)
 ![AI_AGENTS](https://img.shields.io/badge/AI_AGENTS-2D2D2D?style=for-the-badge)
