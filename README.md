@@ -103,7 +103,7 @@ Demonstrating hands-on cloud expertise through AWS Academy and AWS Cloud Quest p
   <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/awsso.png" width="110"/>
 </p>
 
-## Competitive Programming & Coding Profiles
+## Competitive Programming & Profiles
 
 [![CodeChef](https://img.shields.io/badge/CODECHEF-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aakashleo)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-2124-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aakash_420/)
