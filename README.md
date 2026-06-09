@@ -9,7 +9,7 @@ Hi, I'm Aakash — a developer, builder, and lifelong learner with a strong inte
 
 I enjoy creating projects that solve real problems, exploring emerging technologies, and pushing myself beyond my comfort zone. Whether it's developing intelligent automation platforms, designing secure applications, or learning new technologies, I am always looking for the next challenge to tackle.
 
-**forever curious.**
+### **forever curious.**
 
 
 
