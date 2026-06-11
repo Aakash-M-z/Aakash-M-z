@@ -103,6 +103,31 @@ Demonstrating hands-on cloud expertise through AWS Academy and AWS Cloud Quest p
   <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/awsso.png" width="110"/>
 </p>
 
+## Cisco Learning Journey
+
+Building expertise in networking, cybersecurity, and infrastructure through Cisco Networking Academy programs. Gaining hands-on experience with network design, routing, switching, wireless technologies, packet analysis, cybersecurity fundamentals, and secure communication principles.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/CCNAITN__1_.png" width="115"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/CCNASRWE__1_.png" width="115"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/cis1.png" width="115"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/image.png" width="115"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/image%20(1).png" width="115"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/I2CS__1_.png" width="115"/>
+  <img src="https://raw.githubusercontent.com/Aakash-M-z/Aakash-M-z/main/blob.png" width="115"/>
+</p>
+
+![NETWORKING](https://img.shields.io/badge/NETWORKING-2D2D2D?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/CCNA-2D2D2D?style=for-the-badge)
+![CYBERSECURITY](https://img.shields.io/badge/CYBERSECURITY-2D2D2D?style=for-the-badge)
+![PACKET\_TRACER](https://img.shields.io/badge/PACKET_TRACER-2D2D2D?style=for-the-badge)
+
+Developing practical skills in network configuration, routing protocols, switching technologies, cybersecurity awareness, threat detection fundamentals, and enterprise networking concepts through hands-on labs and simulations.
+
+> connecting networks • securing infrastructure • continuous learning
+
+
+
 ## Competitive Programming & Profiles
 
 [![CodeChef](https://img.shields.io/badge/CODECHEF-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aakashleo)
